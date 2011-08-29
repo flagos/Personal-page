@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
-	<categorie number="001" tri="desc" bypage="5" menu="oui" url="rubrique-1" template="categorie.php"><name><![CDATA[Rubrique 1]]></name><description><![CDATA[]]></description><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords></categorie>
+	<categorie number="001" tri="desc" bypage="5" menu="oui" url="tips" template="categorie.php"><name><![CDATA[Tips]]></name><description><![CDATA[Ici ce seront les astuces que j'ai trouvées a droite a gauche et que je souhaite archiver]]></description><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[tips, linux, tuto]]></meta_keywords></categorie>
 </document>
