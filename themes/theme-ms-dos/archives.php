@@ -2,7 +2,7 @@
 
 	<div id="section">
 <div id="breadcrumbs">		
-					FTP:\><?php $plxShow->mainTitle('link'); ?> <span class="sep">\</span> Archives ou Cat&eacute;gorie ou Erreur \
+					$ ><?php $plxShow->mainTitle('link'); ?> <span class="sep">/</span> Archives ou Cat&eacute;gorie ou Erreur /
             </div> <!-- end #breadcrumbs -->
 
 		<div id="article">

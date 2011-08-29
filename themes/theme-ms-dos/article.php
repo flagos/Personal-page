@@ -2,7 +2,7 @@
 
 	<div id="section">
 			<div id="breadcrumbs">		
-					FTP:\><?php $plxShow->mainTitle('link'); ?> <span class="sep">\</span> Blog <span class="sep">\</span> <?php $plxShow->artCat(); ?>  <span class="sep">\</span> 	<?php $plxShow->artTitle(''); ?>\				
+					$ ><?php $plxShow->mainTitle('link'); ?> <span class="sep">/</span> Blog <span class="sep">/</span> <?php $plxShow->artCat(); ?>  <span class="sep">/</span> 	<?php $plxShow->artTitle(''); ?>/				
 			</div> <!-- end #breadcrumbs -->
 		<div id="article">
 
