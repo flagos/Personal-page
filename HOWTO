@@ -1,0 +1,1 @@
+apachectl -d ~/projects/Personal-page/ -f httpd.conf
