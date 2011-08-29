@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[Premier article]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo>
+		<![CDATA[]]>
+	</chapo>
+	<content>
+		<![CDATA[<p>Ceci est un article créé lors de l'installation de PluXml. Editez-le depuis la zone d'administration.</p>]]>
+	</content>
+	<tags>
+		<![CDATA[PluXml]]>
+	</tags>
+	<meta_description>
+		<![CDATA[]]>
+	</meta_description>
+	<meta_keywords>
+		<![CDATA[]]>
+	</meta_keywords>
+</document>
